@@ -1,6 +1,6 @@
 # Простейший консольный торрент-клиент (torrent-client)
 
-Пример консольного торрент-клиента, созданного с помощью библиотеки `MonoTorrent`. Пример является приложение к статье `http://iantonov.me/page/programmiruem-torrent-klient-na-sdelphis-c`.
+Пример консольного торрент-клиента, созданного с помощью библиотеки `MonoTorrent`. Пример является приложение к статье http://iantonov.me/page/programmiruem-torrent-klient-na-sdelphis-c.
 
 ## Мини-FAQ
 
