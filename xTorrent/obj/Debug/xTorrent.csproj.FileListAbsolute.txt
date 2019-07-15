@@ -1,0 +1,7 @@
+D:\MyDoc\Статьи в Хакер\BitTorrent своими руками часть 2\xTorrent\xTorrent\obj\Debug\ResolveAssemblyReference.cache
+D:\MyDoc\Статьи в Хакер\BitTorrent своими руками часть 2\xTorrent\xTorrent\bin\Debug\xTorrent.exe
+D:\MyDoc\Статьи в Хакер\BitTorrent своими руками часть 2\xTorrent\xTorrent\bin\Debug\xTorrent.pdb
+D:\MyDoc\Статьи в Хакер\BitTorrent своими руками часть 2\xTorrent\xTorrent\obj\Debug\xTorrent.exe
+D:\MyDoc\Статьи в Хакер\BitTorrent своими руками часть 2\xTorrent\xTorrent\obj\Debug\xTorrent.pdb
+D:\MyDoc\Статьи в Хакер\BitTorrent своими руками часть 2\xTorrent\xTorrent\bin\Debug\MonoTorrent.dll
+D:\MyDoc\Статьи в Хакер\BitTorrent своими руками часть 2\xTorrent\xTorrent\bin\Debug\MonoTorrent.pdb
